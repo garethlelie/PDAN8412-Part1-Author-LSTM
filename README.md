@@ -28,4 +28,4 @@ Improved model: Embedding → BiLSTM → LSTM → Dropout → Dense (Softmax)
 - `PDAN8412_Part1_Report.pdf` - Submission report
 
 ## Module
-IIE Varsity College — PDAN8412/w Programming for Data Analytics 2 (2026)
+EMERIS - PDAN8412/w Programming for Data Analytics 2 (2026)
